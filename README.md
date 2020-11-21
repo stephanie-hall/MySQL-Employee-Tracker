@@ -1,4 +1,5 @@
 # MySQL-Employee-Tracker
+
 Homework #12 of MSU Full Stack Coding Boot Camp
 
 ## Table of COntents
@@ -6,7 +7,6 @@ Homework #12 of MSU Full Stack Coding Boot Camp
 * [Description](Description)
 * [User Story](User-Story)
 * [Minimum Requirements](Minimum-Requirements)
-* [Demo](Demo)
 
 ## Description
 
@@ -31,7 +31,3 @@ So that I can organize and plan my business
   * View departments, roles, employees
 
   * Update employee roles
-
-## Demo
-
-![Demo]()

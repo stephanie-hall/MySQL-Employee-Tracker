@@ -31,3 +31,11 @@ So that I can organize and plan my business
   * View departments, roles, employees
 
   * Update employee roles
+
+## Links
+
+[GitHub](https://github.com/stephanie-hall/MySQL-Employee-Tracker)
+
+## Screenshot
+
+![Screenshot](public/images/mysql.PNG)
